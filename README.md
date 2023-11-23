@@ -50,7 +50,7 @@ I would like to express my gratitude to the following individuals and teams who 
 
 ## Contact Us
 
-**- [https://umair-ali-bhutto.github.io/codepen/](https://umair-ali-bhutto.github.io/codepen/) (Hold down Ctrl or Command to open in a new tab)**
+**- [https://umair-ali-bhutto.github.io/](https://umair-ali-bhutto.github.io/) (Hold down Ctrl or Command to open in a new tab)**
 
 ## Conclusion
 
